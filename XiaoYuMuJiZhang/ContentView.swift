@@ -56,7 +56,7 @@ struct ContentView: View {
                 .listStyle(.insetGrouped)
                 .searchable(text: $search, prompt: "搜索账单")
             }
-            .navigationTitle("小榆木记账")
+            .navigationTitle("榆木记账")
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
                     Button { showingAdd = true } label: { Image(systemName: "plus.circle.fill").font(.title3) }
