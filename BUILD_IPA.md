@@ -14,7 +14,7 @@
 5. 用数据线连接 iPhone，在 Xcode 顶部选择你的 iPhone 作为运行设备。
 6. 点 Run（▶）。首次需要在 iPhone 上：设置 > 通用 > VPN与设备管理 > 信任你的开发者证书；
    并开启：设置 > 隐私与安全性 > 开发者模式。
-7. App 就会以「小榆木记账」的名字装到桌面。
+7. App 就会以「榆木记账」的名字装到桌面。
 
 ## 导出 IPA（付费开发者）
 Xcode 菜单 Product > Archive，完成后在 Organizer 里点 Distribute App 导出 IPA。
