@@ -17,7 +17,7 @@
    之后可在手机上自行续签）。
    替代工具：AltStore（原理相同，需要电脑上的 AltServer 辅助）。
 2. 在 SideStore 里点 +，选择下载好的 `.ipa` 文件，用你的 Apple ID 登录签名。
-3. 签名完成后，「小榆木记账」会出现在桌面。免费 Apple ID 签名的 App 有效期 7 天，
+3. 签名完成后，「榆木记账」会出现在桌面。免费 Apple ID 签名的 App 有效期 7 天，
    SideStore 可在到期前在手机上点 Refresh 续签。
 
 ## 说明
